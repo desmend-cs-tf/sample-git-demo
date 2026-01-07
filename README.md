@@ -4,4 +4,4 @@ Sample Git Repository
 
 # Please Clone and Add your name and your city
 Desmend J. Chicago
-Jacqui H. Sacramento
+Jacqui H. Sacramento, CA
